@@ -1,0 +1,104 @@
+.apresentation-container
+{
+    min-height: 90vh;
+    position: relative !important;
+}
+
+.apresentation-container .row 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    height: 100%;
+    width: 100%;
+    transition: .5s;
+}
+
+.apresentation-container .row #textApresentation
+{
+    font-size: 20px;
+}
+
+.apresentation-container .row.active,
+.first-track.active *
+{
+    opacity: 100%;
+    transition: 1s;  
+}
+
+.apresentation-container img#shadowWave
+{
+    display: none;
+    width: 100%;
+    object-fit: cover; 
+    object-position: 50% 50%;
+}
+
+.first-track
+{
+    padding: 100px;
+    width: 100%;
+    background-color: rgb(87, 126, 255) !important;
+    color: white;
+}
+
+.second-container
+{
+    height: 100vh;
+}
+
+.second-container .row-header-cards
+{
+    height: 20%;
+    padding-top: 50px;
+}
+
+.second-container .card 
+{
+    height: 80%;
+}
+
+.second-container .row-cards
+{
+    height: 60%;
+}
+
+.second-container .row-cards .card
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: .5s;
+    box-shadow: 0px 0px 3px 5px rgb(211, 211, 211);
+}
+
+.second-container .row-cards .card:hover
+{
+    box-shadow: -5px 5px 7px 5px rgb(211, 211, 211);
+    transform: translateY(-5px);
+    transition: .5s;
+}
+
+#second-container-wave
+{
+    position: absolute;
+}
+
+@media (min-width: 750px) {
+    .second-container .row-cards
+    {
+        padding-top: 150px;
+    }
+
+    .apresentation-container .row,
+    .apresentation-container img#shadowWave
+    {
+        position: absolute !important;
+    }
+
+    .apresentation-container img#shadowWave
+    {
+        display: inline-block;
+    }
+}

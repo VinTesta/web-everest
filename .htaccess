@@ -1,0 +1,7 @@
+#habilitando a reescrita---------------------------------------------------------
+RewriteEngine On
+
+#RewriteCond %{SERVER_PORT} 8000
+#RewriteRule ^(.*)$ http://localhost:8000 [R,L]
+
+RewriteRule    ^welcome/?$    views/home.php    [QSA,NC,L]
