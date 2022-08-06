@@ -45,7 +45,7 @@
 
 .second-container
 {
-    height: 100vh;
+    min-height: 100vh;
 }
 
 .second-container .row-header-cards
@@ -56,7 +56,7 @@
 
 .second-container .card 
 {
-    height: 80%;
+    height: auto;
 }
 
 .second-container .row-cards
@@ -85,6 +85,19 @@
     position: absolute;
 }
 
+#img-first-container
+{
+    width: 80%
+} 
+
+.second-track
+{
+    padding: 100px;
+    width: 100%;
+    background-color: rgb(166, 177, 212) !important;
+    color: rgb(34, 34, 34);
+}
+
 @media (min-width: 750px) {
     .second-container .row-cards
     {
@@ -100,5 +113,10 @@
     .apresentation-container img#shadowWave
     {
         display: inline-block;
+    }
+
+    .second-container .card 
+    {
+        height: 380px;
     }
 }
