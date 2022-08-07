@@ -91,7 +91,7 @@
         </div>
         <div class="row row-cards">
             <div class="col-md-3 mb-5 text-center">
-                <div class="card border-dark mb-3" style="max-width: 18rem;">
+                <div class="card border-dark mb-3">
                     <img src="../web/images/undraw_team_collaboration_re_ow29.svg" width="100%" class="card-img-top">
                 </div>
                 <h3 class="mt-4">Team Management</h3>
@@ -100,7 +100,7 @@
                 </p>
             </div>
             <div class="col-md-3 mb-5 text-center">
-                <div class="card border-dark mb-3" style="max-width: 18rem;">
+                <div class="card border-dark mb-3">
                     <img src="../web/images/undraw_events_re_98ue.svg" width="100%" class="card-img-top">
                 </div>
                 <h3 class="mt-4">Tasks Management</h3>
@@ -109,7 +109,7 @@
                 </p>
             </div>
             <div class="col-md-3 mb-5 text-center">
-                <div class="card border-dark mb-3" style="max-width: 18rem;">
+                <div class="card border-dark mb-3">
                     <img src="../web/images/undraw_security_re_a2rk.svg" width="100%" class="card-img-top">
                 </div>
                 <h3 class="mt-4">Security</h3>
@@ -118,7 +118,7 @@
                 </p>
             </div>
             <div class="col-md-3 mb-5 text-center">
-                <div class="card border-dark mb-3" style="max-width: 18rem;">
+                <div class="card border-dark mb-3">
                     <img src="../web/images/undraw_cloud_sync_re_02p1.svg" width="100%" class="card-img-top">
                 </div>
                 <h3 class="mt-4">Workflow</h3>
