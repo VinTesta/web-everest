@@ -90,7 +90,7 @@
             </div>
         </div>
         <div class="row row-cards">
-            <div class="col-md-3 mb-5">
+            <div class="col-md-3 mb-5 text-center">
                 <div class="card border-dark mb-3" style="max-width: 18rem;">
                     <img src="../web/images/undraw_team_collaboration_re_ow29.svg" width="100%" class="card-img-top">
                 </div>
@@ -99,7 +99,7 @@
                     Solutions for the team manage and biggest projects.
                 </p>
             </div>
-            <div class="col-md-3 mb-5">
+            <div class="col-md-3 mb-5 text-center">
                 <div class="card border-dark mb-3" style="max-width: 18rem;">
                     <img src="../web/images/undraw_events_re_98ue.svg" width="100%" class="card-img-top">
                 </div>
@@ -108,7 +108,7 @@
                     Solution for time management, task management and colaboration with other peoples.
                 </p>
             </div>
-            <div class="col-md-3 mb-5">
+            <div class="col-md-3 mb-5 text-center">
                 <div class="card border-dark mb-3" style="max-width: 18rem;">
                     <img src="../web/images/undraw_security_re_a2rk.svg" width="100%" class="card-img-top">
                 </div>
@@ -117,7 +117,7 @@
                     Solution with high security, your security is our highest priority.
                 </p>
             </div>
-            <div class="col-md-3 mb-5">
+            <div class="col-md-3 mb-5 text-center">
                 <div class="card border-dark mb-3" style="max-width: 18rem;">
                     <img src="../web/images/undraw_cloud_sync_re_02p1.svg" width="100%" class="card-img-top">
                 </div>
