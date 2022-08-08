@@ -35,7 +35,7 @@
             <h3>Vinicius Testa Passos</h3>
             <p>
                 Aspirante a programador desde criança Testa (Vinicius Testa Passos) foi apaixonado por técnologia e suas vertentes. Atualmente ocupa
-                um dos cargos de Analista de Desenvolvimento FullStack no KaBuM! e diz levar o trabalho como um hobby e não uma obrigação.
+                um dos cargos de Analista de Desenvolvimento de Software FullStack no KaBuM! e diz levar o trabalho como um hobby e não uma obrigação.
             </p>
             <div class="icons-social-medias">
                 <a href="#">
@@ -56,7 +56,7 @@
             <h3>Jheniffer Paola de Faria</h3>
             <p>
                 Aspirante a programador desde criança Jheny (Jheniffer Paola de Faria) foi apaixonado por técnologia e suas vertentes. Atualmente ocupa
-                um dos cargos de Analista de Desenvolvimento FullStack no KaBuM! e diz levar o trabalho como um hobby e não uma obrigação.
+                um dos cargos de Estágiaria de Comercia na BluePex e diz levar o trabalho como um hobby e não uma obrigação.
             </p>
             <div class="icons-social-medias">
                 <a href="#">

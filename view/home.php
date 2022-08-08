@@ -4,8 +4,13 @@
 
 <!-- FIRST CONTAINER -->
 <div class="container apresentation-container">
-    <img id="shadowWave" class="wow bounceInUp" src="https://static.wixstatic.com/media/c837a6_f3dbcb551a5c4e9a831a89a0d362afcc~mv2.png/v1/fill/w_1494,h_742,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/c837a6_f3dbcb551a5c4e9a831a89a0d362afcc~mv2.png" alt="">
+    <img id="shadowWave" class="wow bounceInUp" style="z-index: -2" src="https://static.wixstatic.com/media/c837a6_f3dbcb551a5c4e9a831a89a0d362afcc~mv2.png/v1/fill/w_1494,h_742,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/c837a6_f3dbcb551a5c4e9a831a89a0d362afcc~mv2.png" alt="">
 
+    <div class="box-bolha" style="width: 100%; margin: -200px 0 0 -30%; z-index: -1">
+        <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+            <path fill="#c2d0ff" d="M12.2,-6C16.4,8.9,20.8,21.8,12.8,30.7C4.8,39.5,-15.6,44.5,-33.2,34.3C-50.8,24.2,-65.8,-1,-59.8,-18.4C-53.8,-35.7,-26.9,-45.2,-11.4,-41.5C4,-37.8,8,-20.9,12.2,-6Z" transform="translate(100 100)" />
+        </svg>
+    </div>
     <div class="row mb-5">
         <div class="col-md-3 text-md-start text-center mb-4 mt-5">
             <div class="col-12 mb-5 text-md-start text-center" id="textApresentation">
@@ -55,6 +60,12 @@
 <!-- SECOND CONTAINER -->
 <div class="second-container">
     <div class="container-md">
+
+        <div class="box-bolha" id="bolhaSecondContainer">
+            <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+                <path fill="#577EFF" d="M48.1,-18C56.2,9.3,52.3,38,33.9,52.8C15.5,67.7,-17.5,68.6,-40.2,52.7C-63,36.8,-75.5,4.1,-67.1,-23.6C-58.6,-51.2,-29.3,-73.9,-4.7,-72.4C20,-70.8,40,-45.2,48.1,-18Z" transform="translate(100 100)" />
+            </svg>
+        </div>
         <div class="row row-header-cards">
             <div class="col-md-3">
                 <h1>What we offer?</h1>

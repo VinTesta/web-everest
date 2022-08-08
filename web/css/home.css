@@ -150,6 +150,13 @@
     margin: 200px 0 0 150px;
 }
 
+#bolhaSecondContainer
+{ 
+    width: 80%;
+    margin: 150px 0 0 -100px; 
+    z-index: -1;
+}
+
 @media (min-width: 750px) {
     .second-container .row-cards
     {
@@ -189,5 +196,11 @@
         width: 800px; 
         z-index: -1; 
         margin: 550px -400px 0 0;
+    }
+    
+    #bolhaSecondContainer
+    {
+        margin: 0 0 0 950px; 
+        width: 20%;
     }
 }
