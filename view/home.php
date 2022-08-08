@@ -161,11 +161,11 @@
                         <p><a href="#">Política de Dados</a></p>
                     </div>
                 </div>
-                <div class="box-bolha" id="bolhaRodape">
+                <!-- <div class="box-bolha" id="bolhaRodape">
                     <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
                         <path fill="#c2d0ff" d="M12.2,-6C16.4,8.9,20.8,21.8,12.8,30.7C4.8,39.5,-15.6,44.5,-33.2,34.3C-50.8,24.2,-65.8,-1,-59.8,-18.4C-53.8,-35.7,-26.9,-45.2,-11.4,-41.5C4,-37.8,8,-20.9,12.2,-6Z" transform="translate(100 100)" />
                     </svg>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
