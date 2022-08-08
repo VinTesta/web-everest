@@ -34,7 +34,7 @@
         <div class="col-md-6 mb-5">
             <h3>Vinicius Testa Passos</h3>
             <p>
-                Aspirante a programador desde criança Jheny (Jheniffer Paola de Faria) foi apaixonado por técnologia e suas vertentes. Atualmente ocupa
+                Aspirante a programador desde criança Testa (Vinicius Testa Passos) foi apaixonado por técnologia e suas vertentes. Atualmente ocupa
                 um dos cargos de Analista de Desenvolvimento FullStack no KaBuM! e diz levar o trabalho como um hobby e não uma obrigação.
             </p>
             <div class="icons-social-medias">
@@ -55,7 +55,7 @@
         <div class="col-md-6 mb-4 text-end">
             <h3>Jheniffer Paola de Faria</h3>
             <p>
-                Aspirante a programador desde criança Testa (Vinicius Testa Passos) foi apaixonado por técnologia e suas vertentes. Atualmente ocupa
+                Aspirante a programador desde criança Jheny (Jheniffer Paola de Faria) foi apaixonado por técnologia e suas vertentes. Atualmente ocupa
                 um dos cargos de Analista de Desenvolvimento FullStack no KaBuM! e diz levar o trabalho como um hobby e não uma obrigação.
             </p>
             <div class="icons-social-medias">
