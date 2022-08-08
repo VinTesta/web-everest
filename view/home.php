@@ -149,6 +149,25 @@
 </div>
 <!-- CONTAINER INSTALATION -->
 
+<div class="third-container">
+    <div class="container-md">
+        <div class="row mt-5">
+            <div class="col-md-3">
+                <h1>Let's go?</h1>
+                <p class="text-justify">Começe usar o Everest agora mesmo e a melhor parte, de forma gratuita!</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <img src="../web/images/template_celular.png" alt="Template Celular" width="100%">
+            </div>
+            <div class="col-md-6">
+                Baixe clicando no botão a baixo ou procure nosso aplicativo na playstore
+            </div>
+        </div>
+    </div>
+</div>
+
 <?php
     require_once("../layout/rodape.php");
 ?>

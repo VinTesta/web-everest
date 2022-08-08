@@ -100,6 +100,11 @@
     color: rgb(34, 34, 34);
 }
 
+.third-container
+{
+    min-height: 100vh;
+}
+
 @media (min-width: 750px) {
     .second-container .row-cards
     {
