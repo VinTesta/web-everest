@@ -147,7 +147,7 @@
 {
     width: auto; 
     z-index: -1; 
-    margin: 100px 0 0 0;
+    margin: 200px 0 0 150px;
 }
 
 @media (min-width: 750px) {
