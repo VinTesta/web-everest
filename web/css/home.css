@@ -117,6 +117,7 @@
 .third-container
 {
     min-height: 100vh;
+    overflow: hidden;
 }
 
 #boxMsgBaixar
@@ -140,6 +141,13 @@
 .box-bolha
 {
     position: absolute;
+}
+
+#bolhaRodape
+{
+    width: auto; 
+    z-index: -1; 
+    margin: 200px 0 0 150px;
 }
 
 @media (min-width: 750px) {
@@ -176,4 +184,10 @@
     }
 
     
+    #bolhaRodape
+    {
+        width: 800px; 
+        z-index: -1; 
+        margin: 550px -400px 0 0;
+    }
 }
