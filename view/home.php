@@ -6,7 +6,7 @@
 <div class="container apresentation-container">
     <img id="shadowWave" class="wow bounceInUp" style="z-index: -2" src="https://static.wixstatic.com/media/c837a6_f3dbcb551a5c4e9a831a89a0d362afcc~mv2.png/v1/fill/w_1494,h_742,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/c837a6_f3dbcb551a5c4e9a831a89a0d362afcc~mv2.png" alt="">
 
-    <div class="box-bolha" style="width: 100%; margin: -100px 0 0 -30%; z-index: -1">
+    <div class="box-bolha" id="bolhaTopHome">
         <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
             <path fill="#c2d0ff" d="M12.2,-6C16.4,8.9,20.8,21.8,12.8,30.7C4.8,39.5,-15.6,44.5,-33.2,34.3C-50.8,24.2,-65.8,-1,-59.8,-18.4C-53.8,-35.7,-26.9,-45.2,-11.4,-41.5C4,-37.8,8,-20.9,12.2,-6Z" transform="translate(100 100)" />
         </svg>
