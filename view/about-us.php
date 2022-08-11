@@ -7,7 +7,7 @@
     <div class="row mb-5">
         <h1 class="mb-5">About Us</h1>
         <div class="col-12">
-            <p>O Everest foi criado através de uma ideia, uma necessidade e um sonho; tonar a agenda pessoal algo intuitivo, trazer funcionalidades
+            <p>O Everest foi criado através de uma ideia, uma necessidade e um sonho; tornar a agenda pessoal algo intuitivo, trazer funcionalidades
              que cada vez mais ajudam o mercado de trabalho e se tornar a agenda mais amada pelos nossos usuários.</p>
             <p>Essas palavras combinadas a muito café e determinação foram os ingredientes para contruir o <b>Everest</b>.</p>
         </div>                
@@ -56,7 +56,7 @@
             <h3>Jheniffer Paola de Faria</h3>
             <p>
                 Aspirante a programador desde criança Jheny (Jheniffer Paola de Faria) foi apaixonado por técnologia e suas vertentes. Atualmente ocupa
-                um dos cargos de Estágiaria de Comercia na BluePex e diz levar o trabalho como um hobby e não uma obrigação.
+                um dos cargos de Estágiaria de Comercial na BluePex e diz levar o trabalho como um hobby e não uma obrigação.
             </p>
             <div class="icons-social-medias">
                 <a href="#">

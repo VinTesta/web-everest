@@ -1,6 +1,6 @@
 <footer class="everest-footer">
         <div class="container">
-            <div class="row">
+            <div class="row mb-4">
                 <div class="col-md-4 mb-5">
                     <h3>Contato</h3>
                     <br>
@@ -48,6 +48,11 @@
                     <a href="#">Facebook</a>
                 </div>
             </div>
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <p>&copy 2022 por Everest. Desenvolvido e gerenciado por Everest Inc
+                </div>
+            </div>
         </div>
     </footer>
     
@@ -59,5 +64,8 @@
     </script>
     <script src="../web/js/home.js"></script>
     <script src="../web/js/everest.js"></script>
+    <link rel="stylesheet" href="../web/css/everest.css">
+    <link rel="stylesheet" href="../web/css/home.css">
+    <link rel="stylesheet" href="../web/css/about-us.css">
 </body>
 </html>

@@ -43,13 +43,13 @@
             </div>
             <div class="col-md-3"></div>
             <div class="col-md-5 wow bounceInUp text-justify">
-                Sou um parágrafo. Aqui você pode adicionar seu próprio texto. 
-                É fácil, é só clicar em "Editar texto" ou clicar duas vezes sobre mim para editar seu conteúdo e alterar a fonte. 
-                Você também pode me arrastar e soltar em qualquer lugar da página. Sou um ótimo espaço para você compartilhar a sua história.
+                Somos uma empresa com foco no cliente e na melhor manutenção do seu tempo.
+                Trabalhamos arduamente no desenvolvimento de novas ferramentas de gerenciamento de tempo.<br>
+                Uma empresa que vem inovando, trazendo segurança e criando novas formas de você ganhar <b>tempo</b> sem perder <b>tempo</b>
             </div>
         </div>
     </div>
-    <div class="box-bolha">
+    <div class="box-bolha" style="width: 100%">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
             <path fill="#577EFF" fill-opacity="1" d="M0,288L6.2,288C12.3,288,25,288,37,293.3C49.2,299,62,309,74,282.7C86.2,256,98,192,111,165.3C123.1,139,135,149,148,160C160,171,172,181,185,202.7C196.9,224,209,256,222,240C233.8,224,246,160,258,117.3C270.8,75,283,53,295,42.7C307.7,32,320,32,332,37.3C344.6,43,357,53,369,90.7C381.5,128,394,192,406,229.3C418.5,267,431,277,443,250.7C455.4,224,468,160,480,144C492.3,128,505,160,517,176C529.2,192,542,192,554,181.3C566.2,171,578,149,591,160C603.1,171,615,213,628,192C640,171,652,85,665,90.7C676.9,96,689,192,702,224C713.8,256,726,224,738,218.7C750.8,213,763,235,775,218.7C787.7,203,800,149,812,133.3C824.6,117,837,139,849,128C861.5,117,874,75,886,69.3C898.5,64,911,96,923,112C935.4,128,948,128,960,133.3C972.3,139,985,149,997,133.3C1009.2,117,1022,75,1034,53.3C1046.2,32,1058,32,1071,69.3C1083.1,107,1095,181,1108,181.3C1120,181,1132,107,1145,101.3C1156.9,96,1169,160,1182,192C1193.8,224,1206,224,1218,213.3C1230.8,203,1243,181,1255,181.3C1267.7,181,1280,203,1292,229.3C1304.6,256,1317,288,1329,277.3C1341.5,267,1354,213,1366,165.3C1378.5,117,1391,75,1403,96C1415.4,117,1428,203,1434,245.3L1440,288L1440,0L1433.8,0C1427.7,0,1415,0,1403,0C1390.8,0,1378,0,1366,0C1353.8,0,1342,0,1329,0C1316.9,0,1305,0,1292,0C1280,0,1268,0,1255,0C1243.1,0,1231,0,1218,0C1206.2,0,1194,0,1182,0C1169.2,0,1157,0,1145,0C1132.3,0,1120,0,1108,0C1095.4,0,1083,0,1071,0C1058.5,0,1046,0,1034,0C1021.5,0,1009,0,997,0C984.6,0,972,0,960,0C947.7,0,935,0,923,0C910.8,0,898,0,886,0C873.8,0,862,0,849,0C836.9,0,825,0,812,0C800,0,788,0,775,0C763.1,0,751,0,738,0C726.2,0,714,0,702,0C689.2,0,677,0,665,0C652.3,0,640,0,628,0C615.4,0,603,0,591,0C578.5,0,566,0,554,0C541.5,0,529,0,517,0C504.6,0,492,0,480,0C467.7,0,455,0,443,0C430.8,0,418,0,406,0C393.8,0,382,0,369,0C356.9,0,345,0,332,0C320,0,308,0,295,0C283.1,0,271,0,258,0C246.2,0,234,0,222,0C209.2,0,197,0,185,0C172.3,0,160,0,148,0C135.4,0,123,0,111,0C98.5,0,86,0,74,0C61.5,0,49,0,37,0C24.6,0,12,0,6,0L0,0Z"></path>
         </svg>
@@ -69,7 +69,10 @@
         <div class="row row-header-cards">
             <div class="col-md-3">
                 <h1>What we offer?</h1>
-                <p class="text-justify">Sou um parágrafo. Aqui você pode adicionar seu texto. É fácil, basta clicar em "Editar texto" ou clicar duas vezes sobre mim para editar o conteúdo, a fonte e mais.</p>
+                <p class="text-justify">
+                    Conheça alguns dos beneficios de se tornar um cliente <b>Everest</b> e venha fazer parte dessa escalada conosco, junto ao topo de sua
+                    gerencia pessoal.
+                </p>
             </div>
         </div>
         <div class="row row-cards">
@@ -79,7 +82,7 @@
                 </div>
                 <h3 class="mt-4">Team Management</h3>
                 <p class="mt-2">
-                    Solutions for the team manage and biggest projects.
+                    Soluções para gerenciar as suas tarefas e as tarefas do seu time. Oferecemos uma gama de ferramentas de gerenciamento de tarefas.
                 </p>
             </div>
             <div class="col-md-3 mb-5 text-center box-card">
@@ -88,7 +91,8 @@
                 </div>
                 <h3 class="mt-4">Tasks Management</h3>
                 <p class="mt-2">
-                    Solution for time management, task management and colaboration with other peoples.
+                    Soluções para o gerencia seus eventos diarios. Desde aquele almoço em familia até a grande reunião que vai decidir o futuro da empresa.
+                    Nós não deixamos você perder nada.
                 </p>
             </div>
             <div class="col-md-3 mb-5 text-center box-card">
@@ -97,7 +101,7 @@
                 </div>
                 <h3 class="mt-4">Security</h3>
                 <p class="mt-2">
-                    Solution with high security, your security is our highest priority.
+                    Sua segurança é nossa prioridade. Por isso prezamos por niveis de autenticação seguros e que lhe permitem acessar quando e onde quiser.
                 </p>
             </div>
             <div class="col-md-3 mb-5 text-center box-card">
@@ -106,7 +110,8 @@
                 </div>
                 <h3 class="mt-4">Workflow</h3>
                 <p class="mt-2">
-                    Solution for time management, task management and colaboration with other peoples.
+                    Trabalhamos com um fluxo que trabalho exponencial. E por isso nossa equipe está sempre empenhada para disponibilizar mais ferramentas para
+                    auxiliar você e sua equipe.
                 </p>
             </div>
         </div>
@@ -119,9 +124,9 @@
     <div class="container-xs">
         <div class="row wow bounceInUp">
             <div class="col-md-5 wow bounceInUp text-justify">
-                Sou um parágrafo. Aqui você pode adicionar seu próprio texto. 
-                É fácil, é só clicar em "Editar texto" ou clicar duas vezes sobre mim para editar seu conteúdo e alterar a fonte. 
-                Você também pode me arrastar e soltar em qualquer lugar da página. Sou um ótimo espaço para você compartilhar a sua história.
+                Trabalhamos para manter você atualizado e seu tempo organizado em qualquer lugar, a qualquer hora.<br>
+                Apenas relaxe, não precisa de preocupar. Que tal deixar que nós resolvamos a parte chata?
+                Marcar reuniões, organizar agenda, marcar consulta ao dentista. Isso tudo ficou para o passado, nós já fizemos isso pra você!
             </div>
             <div class="col-md-3"></div>
             <div class="col-md-4">
