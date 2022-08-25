@@ -38,13 +38,13 @@
                 um dos cargos de Analista de Desenvolvimento de Software FullStack no KaBuM! e diz levar o trabalho como um hobby e não uma obrigação.
             </p>
             <div class="icons-social-medias">
-                <a href="#">
+                <a href="https://www.instagram.com/testa_vp/">
                     <i class="fa-brands fa-instagram"></i>
                 </a>
-                <a href="#">
+                <a href="mailto:viniciustestapassos@gmail.com">
                     <i class="fa-solid fa-at"></i>
                 </a>
-                <a href="#">
+                <a href="https://github.com/VinTesta">
                     <i class="fa-brands fa-github"></i>
                 </a>
             </div>
@@ -59,13 +59,13 @@
                 um dos cargos de Estágiaria de Comercial na BluePex e diz levar o trabalho como um hobby e não uma obrigação.
             </p>
             <div class="icons-social-medias">
-                <a href="#">
+                <a href="https://www.instagram.com/jhenywxx/">
                     <i class="fa-brands fa-instagram"></i>
                 </a>
-                <a href="#">
+                <a href="mailto:cl200258@g.unicamp.br">
                     <i class="fa-solid fa-at"></i>
                 </a>
-                <a href="#">
+                <a href="https://github.com/jhenywxx">
                     <i class="fa-brands fa-github"></i>
                 </a>
             </div>

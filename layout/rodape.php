@@ -6,7 +6,7 @@
                     <br>
                     <div class="row">
                         <div class="col-md-6">
-                            <p>Rua Dom Bosco, 155 - Vitória, Espirito Santo - SP, 01223-000</p>
+                            <p>R. Paschoal Marmo, 1888 - Jardim Nova Italia, Limeira - SP, 13484-431</p>
                         </div>
                         <div class="col-md-6">
                             <p>Público Geral:</p>
@@ -15,7 +15,7 @@
                     </div>
                     <div class="row">
                         <div class="col-md-6">
-                            <p>Rua Dom Bosco, 155 - Vitória, Espirito Santo - SP, 01223-000</p>
+                            <p>R. Pedro Zaccaria, 1300, Limeira - SP, 13484-350</p>
                         </div>
                         <div class="col-md-6">
                             <p>Público Geral:</p>
@@ -43,7 +43,7 @@
                     </div>
                 </div>
                 <div class="col-md-2" id="linksRedesSociais">
-                    <a href="#">Linkedin</a>
+                    <a href="https://br.linkedin.com/in/vinicius-testa-passos">Linkedin</a>
                     <a href="#">YouTube</a>
                     <a href="#">Facebook</a>
                 </div>
