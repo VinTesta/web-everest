@@ -1,7 +1,6 @@
 <?php
 
 require_once("../util/dao-loader.php");
-require 'mailer/PHPMailerAutoload.php';
 
 try {
   $conexao->beginTransaction();
