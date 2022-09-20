@@ -163,7 +163,7 @@
                 </div>
                 <div class="row mb-4">
                     <div class="col-md-12">
-                        <button class="button-primary-everest btn-everest-lg ms-4">Download Everest</button>
+                        <a href="../web/arquivos/app-release.apk" download="app-release.apk" class="button-primary-everest btn-everest-lg ms-4">Download Everest</a>
                     </div>
                 </div>
                 <div class="row mb-4">

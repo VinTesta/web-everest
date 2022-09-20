@@ -1,3 +1,7 @@
+<?php
+require_once("../util/dao-loader.php");
+?>
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -5,11 +9,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Everest</title>
+    <link rel="icon" type="imagem/png" href="../web/images/logo_everest.png" />
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
     <link rel="stylesheet" href="../web/css/everest.css">
     <link rel="stylesheet" href="../web/css/home.css">
     <link rel="stylesheet" href="../web/css/about-us.css">
+    <link rel="stylesheet" href="../web/css/forum.css">
     <script src="https://kit.fontawesome.com/5b48296146.js" crossorigin="anonymous"></script>
     <link
         rel="stylesheet"
@@ -42,6 +48,9 @@
                     <a class="nav-link" href="./about-us.php">About Us</a>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-link" href="./forum-everest.php">Fórum</a>
+                </li>
+                <li class="nav-item">
                     <a href="../#download-everest">
                         <button type="button" class="button-nav-everest">
                             Começar
@@ -54,3 +63,14 @@
     </div>
     </nav>
     <!-- NAVBAR -->
+    <div class="toast" role="alert" aria-live="assertive" aria-atomic="true" id="everestNotificationToast">
+      <div class="toast-header">
+        <img src="../web/images/logo_everest.png" id="logoToast" class="rounded me-2" alt="...">
+        <strong class="me-auto">Everest</strong>
+        <small>Now</small>
+        <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+      </div>
+      <div class="toast-body">
+        
+      </div>
+    </div>

@@ -30,6 +30,18 @@ body
     color: white
 }
 
+#everestNotificationToast {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 1100;
+}
+
+#logoToast {
+  width: 20px;
+  height: 20px;
+}
+
 .my-bg-main 
 {
     background-color: rgb(235, 235, 235);
