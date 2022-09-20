@@ -83,8 +83,9 @@ $(document).ready(() => {
     } else {
       $("#" + toastList[0]._element.id + " .toast-body").html(`
       Houve um erro ao abrir o chamado! Verifique se todos os campos estão preenchidos corretamente!<b>`);
-      $("#btnAbrirChamado").removeAttr("disabled");
     }
+
+    $("#btnAbrirChamado").removeAttr("disabled");
     toastList[0].show();
   })
 
