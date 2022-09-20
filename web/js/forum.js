@@ -58,6 +58,8 @@ $(document).ready(() => {
   $(document).on("click", "#btnAbrirChamado", async (e) => {
     e.preventDefault();
 
+    $("#btnAbrirChamado").attr("disabled", "");
+
     if(!validaCamposForm([[".force-check"]])) {
       $("#" + toastList[0]._element.id + " .toast-body").html("Há campos inválidos, preencha-os para prosseguir!")  
       toastList[0].show();
@@ -78,10 +80,11 @@ $(document).ready(() => {
       $("#tituloNovoChamado").val("");
       $("#emailNovoChamado").val("");
       $("#descricaoNovoChamado").val("");
-
-      location.reload();
-    } else $("#" + toastList[0]._element.id + " .toast-body").html(`
+    } else {
+      $("#" + toastList[0]._element.id + " .toast-body").html(`
       Houve um erro ao abrir o chamado! Verifique se todos os campos estão preenchidos corretamente!<b>`);
+      $("#btnAbrirChamado").removeAttr("disabled");
+    }
     toastList[0].show();
   })
 
