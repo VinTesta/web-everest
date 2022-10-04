@@ -55,22 +55,32 @@ $(document).ready(() => {
     })
   }
 
+  function validateEmailAddress(emailAddress) {
+    if(!emailAddress) throw new Error("Inv�lid e-mail!");
+    const [addressName, addressDomain] = emailAddress.split('@');
+    if(!addressDomain) return false;
+    const [simpleDomain, superDomain] = addressDomain.split('.');
+    if(!superDomain || !addressName) return false;
+    return true;
+  }
+
   $(document).on("click", "#btnAbrirChamado", async (e) => {
     e.preventDefault();
 
     $("#btnAbrirChamado").attr("disabled", "");
 
-    if(!validaCamposForm([[".force-check"]])) {
-      $("#" + toastList[0]._element.id + " .toast-body").html("Há campos inválidos, preencha-os para prosseguir!")  
-      toastList[0].show();
-      return;
-    }
-
     const chamado = {
       titulo: $("#tituloNovoChamado").val(),
-      descricao: $("#emailNovoChamado").val(),
-      email: $("#descricaoNovoChamado").val()
+      descricao: $("#descricaoNovoChamado").val(),
+      email: $("#emailNovoChamado").val()
     };
+    
+    if(!validaCamposForm([[".force-check"]]) || !validateEmailAddress(chamado.email)) {
+      $("#" + toastList[0]._element.id + " .toast-body").html("Há campos inválidos, preencha-os para prosseguir!")  
+      toastList[0].show();
+      $("#btnAbrirChamado").removeAttr("disabled");
+      return;
+    }
 
     const resultado = await inserirChamado(chamado);
 

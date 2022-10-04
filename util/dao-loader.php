@@ -7,6 +7,7 @@
 
 define('__ROOT__', dirname(dirname(__FILE__)));
 require_once(__ROOT__ . "/config/conecta.php");
+require '../vendor/autoload.php';
 
 function carregaClasseModel($nomeDaClasse) {
     require_once ("../model/" . $nomeDaClasse . ".php");
