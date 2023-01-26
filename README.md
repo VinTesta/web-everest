@@ -1,1 +1,1 @@
-<h1>This is my TCC web project</h1>
+<h2>This is my TCC web project</h2>
